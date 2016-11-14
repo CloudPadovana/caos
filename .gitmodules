@@ -1,0 +1,3 @@
+[submodule "tsdb"]
+	path = tsdb
+	url = ../caos-tsdb.git
