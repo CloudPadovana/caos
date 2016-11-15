@@ -1,3 +1,6 @@
 [submodule "tsdb"]
 	path = tsdb
 	url = ../caos-tsdb.git
+[submodule "collector"]
+	path = collector
+	url = ../caos-collector.git
