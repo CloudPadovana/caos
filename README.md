@@ -1,0 +1,15 @@
+# CAOS
+
+## Getting Started
+
+This repository contains submodules: you can do a full clone with:
+
+```
+$ git clone --recursive https://github.com/CloudPadovana/caos.git
+```
+
+## License
+
+This project is licensed under the Apache License, Version 2.0 - see the
+[LICENSE](LICENSE) file for details.
+
