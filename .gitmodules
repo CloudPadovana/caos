@@ -4,3 +4,6 @@
 [submodule "collector"]
 	path = collector
 	url = ../caos-collector.git
+[submodule "dashboard"]
+	path = dashboard
+	url = ../caos-dashboard.git
