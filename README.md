@@ -5,7 +5,7 @@
 This repository contains submodules: you can do a full clone with:
 
 ```
-$ git clone --recursive https://baltig.infn.it/chiarello/caos.git
+$ git clone --recursive https://baltig.infn.it/caos/caos.git
 ```
 
 ## License
