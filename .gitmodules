@@ -1,9 +1,9 @@
 [submodule "tsdb"]
 	path = tsdb
-	url = https://baltig.infn.it/chiarello/caos-tsdb.git
+	url = https://baltig.infn.it/caos/caos-tsdb.git
 [submodule "collector"]
 	path = collector
-	url = https://baltig.infn.it/chiarello/caos-collector.git
+	url = https://baltig.infn.it/caos/caos-collector.git
 [submodule "dashboard"]
 	path = dashboard
-	url = https://baltig.infn.it/chiarello/caos-dashboard.git
+	url = https://baltig.infn.it/caos/caos-dashboard.git
